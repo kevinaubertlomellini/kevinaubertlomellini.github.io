@@ -2,15 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Perception engineering | vSLAM | DL | Motion planning
+subtitle: Aerial robotics | Robotics swarms | Motor sports
 
 profile:
   align: right
-  image: marcelo_pic.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    MsC student at University of Alberta 
-    Researcher at NODE Lab 
+    MsC student 
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
