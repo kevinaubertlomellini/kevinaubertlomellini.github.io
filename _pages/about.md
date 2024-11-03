@@ -1,8 +1,8 @@
----
+ ---
 layout: about
 title: about
 permalink: /
-subtitle: Aerial Robotics|Robotic Swarms|Motorsports|.
+subtitle: Aerial Robotics | Robotic Swarms | Motorsports|.
 
 profile:
   align: right
