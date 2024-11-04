@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: Circumnavigation Algorithm
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: MARHES
 related_publications: true
 ---
 
